@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - Naam: Ibn Tahar Soufiane
+- Campus: Odisee
 - Opleiding: Toegepaste Informatica
-- Vak: Database design
-- Academiejaar en fase: 1ste fase en 1ste academiejaar
+- Academiejaar: 2020 - 2021
+- fase: 1ste fase
 - Groep: 1TI 1/4
